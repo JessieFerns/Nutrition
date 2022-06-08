@@ -1,0 +1,48 @@
+h2{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h4{
+    font-size: 23px;
+}
+
+
+.nutrition_li{
+    margin: 23px;
+    border-radius: 25px;
+}
+
+.nutrition_li p{
+    font-size: 20px;
+}
+
+.nutrition_li h4{
+    border-bottom: 2px solid;
+}
+
+#contact iframe{
+    margin-top: 70px;
+    width: 100%;
+    margin-left: 25px;
+    border: ridge 3px black;
+    border-radius: 10px;
+}
+
+#nutrition_link{
+    border-color: #0b8a2d;
+      border-width: 3px;
+}
+
+#nutrition_link2{
+    border-color: #9c511f;
+      border-width: 3px;
+}
+
+h3{
+    font-size: 21px;
+}
+
+body{
+    background-color: #d3dbf5;
+}
